@@ -1,14 +1,14 @@
 article {
 	background-color: #a0a0a01f;
 	padding-left:15px;
-	
+	padding-right: 15px;
 }
 .header {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	border-top: 10px;
 	margin-top: 10px;
-	padding-left:15px;
+	padding-left:0px;
 	background-color: #ff6600;
 }
 .line2
